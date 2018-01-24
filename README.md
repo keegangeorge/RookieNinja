@@ -1,5 +1,6 @@
 # RookieNinja
 A small Processing (Java) game called, "Rookie Ninja".
+Created for a school project.
 
 <img src="Game/screencaps/main-menu.PNG">
 <img src="Game/screencaps/instructions-menu.PNG">
